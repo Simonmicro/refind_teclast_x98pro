@@ -1,4 +1,4 @@
-# rEFInd config for Teclast x09 Pro Dual Boot
+# rEFInd config for Teclast x98 Pro Dual Boot
 
 * Just copy-paste this into refind to have a working good looking, dual-boot, touch enabled bootloader :)
 * You'll need only these files inside your efi boot parititon:
